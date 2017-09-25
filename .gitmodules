@@ -1,0 +1,15 @@
+[submodule "Capstone1-Spam-Detection-NLP"]
+	path = Capstone1-Spam-Detection-NLP
+	url = ./Capstone1-Spam-Detection-NLP/
+[submodule "SB5.3-JSON-XML-Wrangling"]
+	path = SB5.3-JSON-XML-Wrangling
+	url = ./SB5.3-JSON-XML-Wrangling/
+[submodule "SB7.1-Identifying-User-Drop-with-Mode-Data"]
+	path = SB7.1-Identifying-User-Drop-with-Mode-Data
+	url = ./SB7.1-Identifying-User-Drop-with-Mode-Data/
+[submodule "SB7.2-Exploratory-Data-Analysis-Using-Medicare-Data"]
+	path = SB7.2-Exploratory-Data-Analysis-Using-Medicare-Data
+	url = ./SB7.2-Exploratory-Data-Analysis-Using-Medicare-Data/
+[submodule "SB8-Statistical-Inference"]
+	path = SB8-Statistical-Inference
+	url = ./SB8-Statistical-Inference/
